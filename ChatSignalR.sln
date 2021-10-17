@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSignalR.Android", "ChatSignalR\ChatSignalR.Android\ChatSignalR.Android.csproj", "{DB8C242C-DE58-47B7-96ED-FB422B75A983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSignalR", "ChatSignalR\ChatSignalR\ChatSignalR.csproj", "{A7AE39A5-5E55-44E1-99ED-D7C8870CEE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat.Messages2", "..\Chat.Messages2\Chat.Messages2\Chat.Messages2.csproj", "{6FBCF4F3-C60A-44D0-8703-A535447FD383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8C242C-DE58-47B7-96ED-FB422B75A983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8C242C-DE58-47B7-96ED-FB422B75A983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8C242C-DE58-47B7-96ED-FB422B75A983}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DB8C242C-DE58-47B7-96ED-FB422B75A983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8C242C-DE58-47B7-96ED-FB422B75A983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8C242C-DE58-47B7-96ED-FB422B75A983}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A7AE39A5-5E55-44E1-99ED-D7C8870CEE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AE39A5-5E55-44E1-99ED-D7C8870CEE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AE39A5-5E55-44E1-99ED-D7C8870CEE3C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A7AE39A5-5E55-44E1-99ED-D7C8870CEE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AE39A5-5E55-44E1-99ED-D7C8870CEE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7AE39A5-5E55-44E1-99ED-D7C8870CEE3C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6FBCF4F3-C60A-44D0-8703-A535447FD383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBCF4F3-C60A-44D0-8703-A535447FD383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBCF4F3-C60A-44D0-8703-A535447FD383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBCF4F3-C60A-44D0-8703-A535447FD383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E097CF1F-0813-49EF-AC84-21BC060A76EA}
+	EndGlobalSection
+EndGlobal
